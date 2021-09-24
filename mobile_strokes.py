@@ -20,9 +20,9 @@ def mobile_keyboard(s):
 lista0 = [""]
 lista1 = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0", "*", "#"]
 lista2 = ["a", "d", "g", "j", "m", "p", "t", "w"]
-lista3 = ["b", "e", "h", "k", "n" "q", "u", "x"]
+lista3 = ["b", "e", "h", "k", "n", "q", "u", "x"]
 lista4 = ["c", "f", "i", "l", "o", "r", "v", "y"]
 lista5 = ["s", "z"]
 
 
-mobile_keyboard("longwordwhichdontreallymakessense")
+
